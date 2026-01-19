@@ -10,7 +10,6 @@ Aggregations
 Grouping
 Creating summary reports
 
-
 Tools Used
 
 MySQL
@@ -22,6 +21,8 @@ Files Included
 queries_task3.sql – Contains all SQL queries written for the task
 sales_summary.csv – Exported result of summary queries
 README.md – Explanation of the task and queries
+[sales_summary.csv](https://github.com/user-attachments/files/24716268/sales_summary.csv)
+[queries_task3.sql](https://github.com/user-attachments/files/24716261/queries_task3.sql)
 
 SQL Queries Explained
 
